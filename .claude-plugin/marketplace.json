@@ -1,0 +1,7 @@
+{
+  "name": "cache-watch",
+  "owner": { "name": "augustoFranke" },
+  "plugins": [
+    { "name": "cache-watch", "source": "./", "description": "Shows prompt-cache reads/writes, a cache expiry countdown, and the re-write cost of switching model." }
+  ]
+}

@@ -1,0 +1,1 @@
+{ "name": "cache-watch", "version": "0.1.0", "description": "Shows prompt-cache reads/writes, cache expiry countdown, and the re-write cost of switching model.", "types": "./types/index.d.ts" }
