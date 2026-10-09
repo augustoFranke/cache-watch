@@ -72,7 +72,7 @@ export const register: Register = on => {
 
     return (
       <Box>
-        <Text dimColor={!isSwitched && left > 0} color={isSwitched || left <= 0 ? 'rgb(185,28,28)' : undefined}>
+        <Text dimColor={!isSwitched && left > 0} color={isSwitched || left <= 0 ? 'rgb(192,71,66)' : undefined}>
           ctx {k(ctx)} · read {k(turn.read)} · written {k(turn.written)} · {cache}
           {warn}
         </Text>
